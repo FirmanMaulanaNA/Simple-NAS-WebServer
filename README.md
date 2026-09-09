@@ -41,7 +41,7 @@ node server.js
 
  -local: http://localhost:3000
  or
- -local network: http:<your ip address >:3000
+ -local network: http:your-ip:3000
  
 
 -------------------------------------
