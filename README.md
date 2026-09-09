@@ -27,7 +27,7 @@ pkg update
 
 pkg install nodejs git
 
---git clone https://github.com/FirmanMaulanaNA/Simple-NAS-WebServer.git
+git clone https://github.com/FirmanMaulanaNA/Simple-NAS-WebServer.git
 
 cd Simple-NAS-WebServer
 
