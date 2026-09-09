@@ -29,8 +29,9 @@ Access
 
 Open:
 
- http://localhost:3000
-
+ local: http://localhost:3000
+ local network: http:<your-ip>:3000
+ 
 
 ------------------------
 Recommended to use: Cloudflare Tunnel
