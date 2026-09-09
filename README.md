@@ -3,10 +3,13 @@ Node.js-based NAS web server for uploading, downloading, view, and managing file
 Functionally sufficient for saving files to a device from another device, but not designed for security (anyone who has access the URL can delete all files in the uploads folder).
 
 
-Requirements:
+Install Requirements:
 
-- Node.js 18+
+- Node.js 
 - npm
+- express
+- multer
+- uuid
 
 Installation
 --------------------------
@@ -45,7 +48,7 @@ node server.js
  
 
 -------------------------------------
-If you want online you can use: "Cloudflare Tunnel"
+If you want access online at no cost you can use: "Cloudflare Tunnel"
 
 Expose your server online without opening router ports by install Cloudflared 
 
